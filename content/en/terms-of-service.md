@@ -4,49 +4,51 @@ type: page
 sidebar:
   exclude: true
 ---
-# Terms of Service
 
-*Effective Date: June 1, 2025*
+# 服务条款
+
+*生效日期：2025年6月1日*
 
 ---
 
-Welcome to this website (which we'll refer to as "**the Site**" or "**we**" from now on)! Before you dive into using our services, please make sure to give these Terms of Service a good, thorough read. By simply accessing or using the Site, you're basically giving us the green light and agreeing to everything here. 😉
+欢迎访问本网站（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
 
-## 1. Service Overview
-**The Site** offers a bunch of cool stuff like paid subscription content and member services. Think of it as your go-to spot for blog posts, exclusive resources, e-books, and even community interaction, among other things. Just a heads-up: some content is only accessible to our awesome subscribers. 🚀
+## 1. 服务简介
+本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
 
-## 2. User Registration and Accounts
-*   **User Accounts:** To get an account, you'll need to provide a valid email address and set up a password. Pretty standard stuff, right? 😉
-*   **You (the User):** You're fully responsible for keeping your account secure and for all the activity that goes down under your login. So, no sharing or transferring your account – that's a big no-no! 🙅‍♀️
-*   **The Site:** We totally reserve the right to suspend or terminate your account if you ever decide to break these terms. Just a fair warning! 🚨
+## 2. 用户注册与账户
+- 用户需提供有效的电子邮件地址和设置密码以注册账户。
+- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
+- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
 
-## 3. Paid Subscription Services
-*   **Subscription Services:** Our subscriptions run on a monthly/annual billing cycle, and you'll see all the costs laid out crystal clear on the checkout page. No hidden fees here! ✨
-*   **Payments:** All your payments go through secure third-party platforms (like Stripe or PayPal), so don't sweat it – we never store your payment info. Your financial deets are safe elsewhere! ✅
-*   **Auto-Renewal:** Heads up, your subscription will automatically renew unless you cancel it before your current billing cycle ends. Easy peasy to manage, just remember to opt out if you don't want it to continue. 🔄
-*   **Refunds:** Generally speaking, once a payment is made, it's non-refundable unless required by law or if we specify otherwise during a special promo. So, choose wisely! 💰➡️💨
+## 3. 付费订阅服务
+- 订阅服务基于月度/年度计费，费用在结算页面明示。
+- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
+- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
+- 除非法律强制或在特定促销中另有说明，付款后**不予退款**。
 
-## 4. Content Use and Intellectual Property
-*   **Original Content:** All the original content you find here is copyrighted by the Site. That means you can't just copy, reproduce, or use it for commercial purposes without our express permission. Got it? 🧐
-*   **Your Access:** You, as a user, get a non-exclusive, non-transferable right to access this content strictly for your personal learning and reading. It's for your brain, not your business! 🧠
-*   **Commercial Use/Heavy Quoting:** If you're looking to use our stuff for commercial reasons or quote a lot of it, please reach out to the Site first to get authorization. Let's chat! 🤝
+## 4. 内容使用与知识产权
+- 所有原创内容**版权归本站所有**，未经授权不得复制、转载或用于商业用途。
+- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
+- 如需商业用途或大量引用，请联系本站获取授权。
 
-## 5. User Conduct Guidelines
-*   **User Conduct: What NOT to Do!** Here's the deal: We absolutely forbid uploading, posting, or spreading any content that's illegal, harassing, false, offensive, or violates anyone's rights. Keep it clean and respectful, folks! 🚫
-*   **No Cheating!** And hey, don't even think about trying to bulk download, scrape, or crack our member content using technical tricks. That's just plain wrong and we'll catch you! 🕵️‍♀️
-*   **The Site's Authority:** We've got the power to remove any inappropriate content and, yep, we will ban users who break these rules. Play fair or don't play at all! 👋
+## 5. 用户行为规范
+- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
+- **禁止**通过技术手段批量下载、抓取、破解会员内容。
+- 本站有权移除不当内容并**封禁违规用户**。
 
-## 6. Service Changes and Interruptions
-*   **Service Changes & Interruptions: Heads Up!** We reserve the right to change, suspend, or totally terminate any part or all of our services at any time, without giving you a heads-up. It's just how the digital cookie crumbles sometimes! 🍪
-*   **No Liability:** If, by some act of God, server glitch, or third-party service hiccup, our content becomes temporarily unavailable, don't worry, it's not on us. We're not liable for any compensation in those situations. 🤷‍♀️
+## 6. 服务变更与中断
+- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
+- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
 
-## 7. Disclaimer
-*   **Disclaimer: Read This!** The info we provide on the Site is purely for your reference and entertainment. It's definitely *not* professional advice – so don't treat it like financial, legal, or medical guidance, okay? Always consult a pro for that stuff! 🧑‍🔬
-*   **No Responsibility for Losses:** And for the record, the Site is absolutely *not* responsible for any direct or indirect losses you might incur from using our content or services. Use at your own risk, folks! 🎢
+## 7. 免责声明
+- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
+- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
 
-## 8. Governing Law
-**These Terms of Service** are governed by and interpreted according to the laws of California, USA, without getting bogged down by conflict of law principles. If any squabbles pop up related to these terms, we'll try to sort it out amicably first. If that doesn't work, you agree to take it to the courts in Santa Clara County, California, which have jurisdiction. Fair enough? ⚖️
+## 8. 法律适用
+- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
+- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
 
-## 9. Contact Information
-*   **Got Questions? Hit Us Up!** If you've got any questions about these terms, feel free to get in touch with us using the info below. Don't be shy! 👇
-*   📧 **Email:** [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+## 9. 联系方式
+- 如对本条款有任何疑问，请通过以下方式联系我们：
+- 📧 **邮箱**： [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
